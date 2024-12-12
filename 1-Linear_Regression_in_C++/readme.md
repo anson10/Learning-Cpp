@@ -12,7 +12,7 @@ $$
 y = mx + b
 $$
 
-Where:
+where:
 - $y$: The predicted dependent variable (output).
 - $x$: The independent variable (input).
 - $m$: The slope of the line (weight).
