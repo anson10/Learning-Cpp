@@ -69,7 +69,7 @@ Accuracy in linear regression is not defined in the same way as in classificatio
 The R-squared value is given by:
 
 $$
-R^2 = 1 - \frac{\sum_{i=1}^{m} \left( \hat{y}_i - y_i \right)^2}{\sum_{i=1}^{m} \left( \bar{y} - y_i \right)^2}
+\text{R^2 = 1} - \frac{\sum_{i=1}^{m} \left( \hat{y}_i - y_i \right)^2}{\sum_{i=1}^{m} \left( \bar{y} - y_i \right)^2}
 $$
 
 Where:
