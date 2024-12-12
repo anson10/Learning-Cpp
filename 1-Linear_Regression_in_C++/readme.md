@@ -79,6 +79,3 @@ Where:
 
 R-squared ranges from 0 to 1, with values closer to 1 indicating a better fit of the model to the data.
 
-## Conclusion
-
-Linear regression is a powerful and simple method used for predicting continuous values. By minimizing the cost function and optimizing the weights, we can build an accurate model for a given dataset. Understanding the concepts of cost function, weights, and losses helps in refining the model for better predictions.
