@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "*.rmd": "markdown",
+        "iostream": "cpp"
+    }
+}
