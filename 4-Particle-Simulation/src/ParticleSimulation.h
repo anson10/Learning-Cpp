@@ -11,9 +11,9 @@ public:
     float timeStep;
 
     ParticleSimulation();
-    void addParticle(float x, float y, float radius);
+    void addParticle(float x, float y, float radius, float mass, float vx, float vy);
     void update(float dt);
     void render(sf::RenderWindow& window);
 };
 
-#endif // PARTICLESIMULATION_H
+#endif
